@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieView">
+        <attr name="color_a" format="color" />
+        <attr name="color_b" format="color" />
+        <attr name="color_c" format="color" />
+        <attr name="color_d" format="color" />
+        <attr name="stroke_width" format="dimension" />
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text" format="string" />
+        <attr name="percent_arc_a" format="float" />
+        <attr name="text_percent_size" format="dimension" />
+    </declare-styleable>
+</resources>
